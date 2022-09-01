@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir my_dir
+ls -la /root/
+
