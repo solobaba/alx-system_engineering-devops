@@ -1,0 +1,5 @@
+#!/bin/bash
+ls -la /root/
+print("hello")
+print("olleh")
+
