@@ -1,0 +1,6 @@
+#!/bin/bash
+FILE="/etc/passwd"
+FILES="/etc/hosts"
+cat $FILE
+cat $FILES
+
