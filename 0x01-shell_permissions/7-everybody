@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -la /root/
-print("every owner")
-
+chmod ugo+x hello
