@@ -1,5 +1,2 @@
 #!/bin/bash
-ls -la /root/
-print("hello")
-print("olleh")
-
+chmod --reference=olleh hello
