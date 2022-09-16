@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -la /root/
-print("hello")
-
+chmod u+x,g+x,o+r heelo
