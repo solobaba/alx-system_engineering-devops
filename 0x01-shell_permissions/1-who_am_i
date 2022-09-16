@@ -1,1 +1,2 @@
-print Solomon Oduniyi
+#!/bin/bash
+id -un
