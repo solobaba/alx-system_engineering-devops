@@ -1,2 +1,2 @@
-echo -e '#!/bin/bash\ntouch hello' > 4-empty
-
+#!/bin/bash
+touch hello
