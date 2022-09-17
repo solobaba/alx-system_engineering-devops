@@ -1,2 +1,2 @@
-echo -e '#!/bin/bash\nsort | uniq -u' > 13-unique
-
+#!/bin/bash
+sort | uniq -u
