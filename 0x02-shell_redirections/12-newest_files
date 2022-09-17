@@ -1,3 +1,2 @@
-#!/bin/bash
-ls -t | head
+echo -e '#!/bin/bash\nls -t | head' > 12-newest_files
 
