@@ -1,2 +1,3 @@
-echo -e '#!/bin/bash\nhead -3 iacta | tail -1' > 6-third_line
+#!/bin/bash
+head -3 iacta | tail -1
 
